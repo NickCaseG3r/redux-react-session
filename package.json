@@ -1,6 +1,6 @@
 {
   "name": "@nickcaseg3r/redux-react-session",
-  "version": "2.6.3",
+  "version": "2.6.4",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -14,8 +14,8 @@
     "prepublishOnly": "npm run build"
   },
   "publishConfig": {
-  "registry":"https://npm.pkg.github.com"
-},
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bernabe9/redux-react-session.git"
