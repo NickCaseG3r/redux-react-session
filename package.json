@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bernabe9/redux-react-session.git"
+    "url": "git+https://github.com/nickcaseg3r/redux-react-session.git"
   },
   "keywords": [
     "redux",
@@ -28,7 +28,7 @@
     "react-router",
     "localStorage"
   ],
-  "author": "Bernabe Gonzalez <gobernabe@gmail.com>",
+  "author": "Nick Case",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bernabe9/redux-react-session/issues"
