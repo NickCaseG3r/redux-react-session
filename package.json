@@ -1,6 +1,6 @@
 {
   "name": "@nickcaseg3r/redux-react-session",
-  "version": "2.6.4",
+  "version": "2.6.5",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
